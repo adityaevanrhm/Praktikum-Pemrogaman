@@ -40,6 +40,5 @@
         cout<<theStudent[i].idNum<<endl;
         cout<<m<<endl;
     }
-    system("Pause");
     return 0;
 }
