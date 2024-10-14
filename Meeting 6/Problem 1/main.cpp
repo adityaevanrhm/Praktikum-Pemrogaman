@@ -35,6 +35,5 @@ for (int i=0;i<n;i++) {
     cout<<theStudent[i].idNum<<endl;
     cout<<theStudent[i].gpa<<endl;
     }
-    system("Pause");
 return 0;
 }
