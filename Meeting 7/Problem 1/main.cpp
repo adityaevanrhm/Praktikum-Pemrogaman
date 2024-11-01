@@ -15,11 +15,11 @@ int divi(int a, int b) {
 }
 int main() {
     int a, b;
-    cout << "Enter two numbers: ";
+    cout << "Input two numbers: ";
     cin >> a >> b;
-    cout << "Addition: " << add(a, b) << endl;
-    cout << "Substraction: " << subs(a, b) << endl;
-    cout << "Multiplication: " << mul(a, b) << endl;
-    cout << "Division: " << divi(a, b) << endl;
+    cout << "The Addition is: " << add(a, b) << endl;
+    cout << "The Substraction is : " << Subs(a, b) << endl;
+    cout << "The Multiplication is: " << mul(a, b) << endl;
+    cout << "The Division is: " << divi(a, b) << endl;
     return 0;
 }
