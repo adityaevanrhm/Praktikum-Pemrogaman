@@ -20,8 +20,8 @@ int gcd(int a, int b) {
 
 int main() {
     int a, b;
-    cout << "Enter two numbers: ";
+    cout << "Input two numbers: ";
     cin >> a >> b;
-    cout << "GCD of " << a << " and " << b << " is " << gcd(a, b) << endl;
+    cout << "The Greater Common Division of the number " << a << " and " << b << " is " << gcd(a, b) << endl;
     return 0;
 }
