@@ -9,6 +9,7 @@ int main(){
             palindrome = true;
         }
         else palindrome = false;
+        break;
     }
     if(!palindrome){
         cout << "The word is not a palindrome";
